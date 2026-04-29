@@ -1,0 +1,5 @@
+{
+  "name": "India Smart Energy Forecasting System",
+  "description": "A professional AI-powered dashboard for predicting hourly electricity demand across India's regional grids using Gradient Boosting and RNN models.",
+  "requestFramePermissions": []
+}
